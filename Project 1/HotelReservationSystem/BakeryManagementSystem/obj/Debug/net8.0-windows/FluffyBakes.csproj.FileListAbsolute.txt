@@ -1,0 +1,54 @@
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.exe
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.deps.json
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.pdb
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.Form1.resources
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.csproj.GenerateResource.cache
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBa.1378C145.Up2Date
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\refint\FluffyBakes.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.pdb
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.genruntimeconfig.cache
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\ref\FluffyBakes.dll
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.Form2.resources
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.Form3.resources
+C:\Users\Ethan\OneDrive\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.Form4.resources
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.exe
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.deps.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\FluffyBakes.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.Form1.resources
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.Form2.resources
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.Form3.resources
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.Form4.resources
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.csproj.GenerateResource.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBa.1378C145.Up2Date
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\refint\FluffyBakes.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\FluffyBakes.genruntimeconfig.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 1\ITPCA2-B12 (C#)\Project 1\FluffyBakes\obj\Debug\net8.0-windows\ref\FluffyBakes.dll
