@@ -1,0 +1,14 @@
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\bin\Debug\net8.0\BookingAgent.exe
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\bin\Debug\net8.0\BookingAgent.deps.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\bin\Debug\net8.0\BookingAgent.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\bin\Debug\net8.0\BookingAgent.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\bin\Debug\net8.0\BookingAgent.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\obj\Debug\net8.0\BookingAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\obj\Debug\net8.0\BookingAgent.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\obj\Debug\net8.0\BookingAgent.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\obj\Debug\net8.0\BookingAgent.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\obj\Debug\net8.0\BookingAgent.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\obj\Debug\net8.0\refint\BookingAgent.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\obj\Debug\net8.0\BookingAgent.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\obj\Debug\net8.0\BookingAgent.genruntimeconfig.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\BookingAgent\obj\Debug\net8.0\ref\BookingAgent.dll

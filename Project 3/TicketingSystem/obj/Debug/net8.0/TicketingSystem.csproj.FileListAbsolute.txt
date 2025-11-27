@@ -1,0 +1,14 @@
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\bin\Debug\net8.0\TicketingSystem.exe
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\bin\Debug\net8.0\TicketingSystem.deps.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\bin\Debug\net8.0\TicketingSystem.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\bin\Debug\net8.0\TicketingSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\bin\Debug\net8.0\TicketingSystem.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\obj\Debug\net8.0\TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\obj\Debug\net8.0\TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\obj\Debug\net8.0\TicketingSystem.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\obj\Debug\net8.0\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\obj\Debug\net8.0\TicketingSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\obj\Debug\net8.0\refint\TicketingSystem.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\obj\Debug\net8.0\TicketingSystem.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\obj\Debug\net8.0\TicketingSystem.genruntimeconfig.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 4\ITDCA2-B44 (Data Structure & Algorithms in C#)\Project\TicketingSystem\obj\Debug\net8.0\ref\TicketingSystem.dll
