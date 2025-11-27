@@ -1,0 +1,14 @@
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\bin\Debug\net8.0\Drone_Racing_Sim.exe
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\bin\Debug\net8.0\Drone_Racing_Sim.deps.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\bin\Debug\net8.0\Drone_Racing_Sim.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\bin\Debug\net8.0\Drone_Racing_Sim.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\bin\Debug\net8.0\Drone_Racing_Sim.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\obj\Debug\net8.0\Drone_Racing_Sim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\obj\Debug\net8.0\Drone_Racing_Sim.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\obj\Debug\net8.0\Drone_Racing_Sim.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\obj\Debug\net8.0\Drone_Racing_Sim.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\obj\Debug\net8.0\Drone_Racing_Sim.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\obj\Debug\net8.0\refint\Drone_Racing_Sim.dll
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\obj\Debug\net8.0\Drone_Racing_Sim.pdb
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\obj\Debug\net8.0\Drone_Racing_Sim.genruntimeconfig.cache
+C:\Users\Ethan\OneDrive\Desktop\Desktop\Uni\Year 2\Block 2\ITPCA2-B12 (C#)\Project 2\Drone_Racing_Sim\obj\Debug\net8.0\ref\Drone_Racing_Sim.dll
